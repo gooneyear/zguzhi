@@ -330,7 +330,7 @@ msgstr "主菜单"
 
 #: footer.php:28
 msgid "Proudly powered by %s"
-msgstr "自豪地采用%s"
+msgstr "Copyright © 2016 周古之 zguzhi.cn 苏ICP备16064303号"
 
 #: footer.php:28
 msgid "Semantic Personal Publishing Platform"
